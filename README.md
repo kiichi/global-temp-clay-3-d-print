@@ -5,8 +5,7 @@ I wanted visualize and print using 3-D clay printer. I was inspired by [this twe
 
 - gen-spiral.js - this is a javascript program to generate the part of .gcode file. Simply copy the code into Chrome console and you can replace the output in the .gcode file between comments: Movement Start / End
 - global-temp.gcode - final result which I printed
-
-
+- I used Tronxy Moore 1 at LIU Post Craft Center.
 
 
 
