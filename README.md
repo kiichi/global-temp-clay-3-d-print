@@ -17,3 +17,5 @@ I wanted visualize and print using 3-D clay printer. I was inspired by [this twe
 
 
 <img src=https://user-images.githubusercontent.com/396816/196073361-5bf49684-c439-4552-bab0-919486468e4f.gif width=400px>
+
+![Global_Temperature_Time_Series_-_Dataset_-_DataHub_-_Frictionless_Data](https://user-images.githubusercontent.com/396816/196149776-6ec51592-e283-4468-ab7c-f8632eb4ed55.jpg)
