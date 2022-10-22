@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+    <head>
+        <title>GCode Viewer</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <script src="./gcode-viewer.js"></script>
+    </head>
+    <body>
+        <div id="gcode-viewer"></div>
+        <script>
+            fetch('./global-temp.gcode')
+            .then((res)=>res.text())
+            .then((gcode)=>{
+                const renderer = new gcodeViewer.GCodeRenderer(gcode, 800, 600, new gcodeViewer.Color(0x808080))
+                document.getElementById("gcode-viewer").append(renderer.element())
+                renderer.render().then(() => console.log("rendering finished"))
+            })
+        </script>
+    </body>
+</html>
