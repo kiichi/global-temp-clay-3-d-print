@@ -1,4 +1,4 @@
-# global-temp-clay-3-d-print
+# Global Temperature 3-D Clay Printing Data and GCODE Generator
 3-D Printed global temperature data since 1880
 
 I wanted visualize and print using 3-D clay printer. I was inspired by [this tweet](https://twitter.com/nasaclimate/status/1504197492572712960?lang=en) by NASA, but I do remember that the same idea appeared from my Thesis Advisors Dr. Patrick Kennelly and Dr. Christopher League.
@@ -18,7 +18,12 @@ I wanted visualize and print using 3-D clay printer. I was inspired by [this twe
 
 <img src=https://user-images.githubusercontent.com/396816/196073361-5bf49684-c439-4552-bab0-919486468e4f.gif width=400px>
 
+![Global_Temperature_Time_Series_-_Dataset_-_DataHub_-_Frictionless_Data](https://user-images.githubusercontent.com/396816/196149776-6ec51592-e283-4468-ab7c-f8632eb4ed55.jpg)
+
+(Graph by DataHub.io)
+
 # References
+
 
 - [https://raw.githubusercontent.com/aligator/gcode-viewer/main/example/index.html](https://raw.githubusercontent.com/aligator/gcode-viewer/main/example/index.html)
 - [NCViewer.nc - NC Viewer](https://ncviewer.com/)
