@@ -1,12 +1,11 @@
 # Global Temperature 3-D Clay Printing Data and GCODE Generator
 3-D Printed global temperature data since 1880
 
-I wanted visualize and print using 3-D clay printer. I was inspired by [this tweet](https://twitter.com/nasaclimate/status/1504197492572712960?lang=en) by NASA, but I do remember that the same idea appeared from my Thesis Advisors Dr. Patrick Kennelly and Dr. Christopher League.
+I wanted visualize and print using 3-D clay printer. I was inspired by [this tweet](https://twitter.com/nasaclimate/status/1504197492572712960?lang=en) by NASA, but I do remember that the same idea appeared from my instructor / thesis advisor in my graduate courses Dr. Patrick Kennelly and Dr. Christopher League.
 
 - gen-spiral.js - this is a javascript program to generate the part of .gcode file. Simply copy the code into Chrome console and you can replace the output in the .gcode file between comments: Movement Start / End
 - global-temp.gcode - final result which I printed
 - I used Tronxy Moore 1 at LIU Post Craft Center.
-
 
 
 <img src=https://user-images.githubusercontent.com/396816/196073327-aff6ee43-73f1-4af5-97ff-155fa923264b.gif width=500px>
@@ -17,7 +16,15 @@ I wanted visualize and print using 3-D clay printer. I was inspired by [this twe
 
 <img src=https://user-images.githubusercontent.com/396816/196149776-6ec51592-e283-4468-ab7c-f8632eb4ed55.jpg width=900px>
 
+<img src=https://user-images.githubusercontent.com/396816/202871518-0c1b4697-53d8-4848-adea-e62add614797.JPG width=900px>
+
 (Graph by DataHub.io)
+
+# SNS Posts
+
+- [Kiichi’s Bento and Ceramics (@bentogram22) • Instagram photos and videos 1](https://www.instagram.com/p/Cj1DPfCOR9D/)
+- [Kiichi’s Bento and Ceramics (@bentogram22) • Instagram photos and videos 2](https://www.instagram.com/p/Ck0vLADuF_g/)
+
 
 # References
 
