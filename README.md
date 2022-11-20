@@ -1,7 +1,16 @@
 # Global Temperature 3-D Clay Printing Data and GCODE Generator
 3-D Printed global temperature data since 1880
 
-I wanted visualize and print using 3-D clay printer. I was inspired by discussion with my graduate course instructor / advisor Patrick Kennelly and [this tweet](https://twitter.com/nasaclimate/status/1504197492572712960?lang=en) by NASA recently.
+I wanted visualize and print using 3-D clay printer. I was inspired by discussion with my graduate course instructor / advisor Christopher League and Patrick Kennelly and [this tweet](https://twitter.com/nasaclimate/status/1504197492572712960?lang=en) by NASA recently.
+
+For more details, please check this award winning article:
+
+```
+Christopher League & Patrick Kennelly (2019): Cartographic Symbol
+Design Considerations for the Space–Time Cube, The Cartographic Journal, DOI:
+10.1080/00087041.2018.1533291
+```
+https://doi.org/10.1080/00087041.2018.1533291
 
 - gen-spiral.js - this is a javascript program to generate the part of .gcode file. Simply copy the code into Chrome console and you can replace the output in the .gcode file between comments: Movement Start / End
 - global-temp.gcode - final result which I printed
