@@ -1,7 +1,7 @@
 # Global Temperature 3-D Clay Printing Data and GCODE Generator
 3-D Printed global temperature data since 1880
 
-I wanted visualize and print using 3-D clay printer. I was inspired by discussion with my graduate course instructor / advisor Christopher League and Patrick Kennelly and [this tweet](https://twitter.com/nasaclimate/status/1504197492572712960?lang=en) by NASA recently.
+I wanted visualize and print using 3-D clay printer. I was inspired by discussion with my graduate course instructor / advisor Christopher League and Patrick Kennelly + [this tweet](https://twitter.com/nasaclimate/status/1504197492572712960?lang=en) by NASA recently.
 
 For more details, please check this award winning article:
 
